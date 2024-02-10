@@ -7,5 +7,5 @@ Obs: Todas os cálculos de conversões são apenas ilustrativas, este projeto fo
 ## Tela Inicial:
 
 <div align="center">
-<img src="https://github.com/gustavocarmomendes/Gaming-Sensitivity-Converter-Project/assets/112448190/31b71f00-ceda-4bab-b635-e356926f6cc7" width="700px" />
+<img src="https://github.com/gustavocarmomendes/Gaming-Sensitivity-Converter-Project/assets/112448190/31b71f00-ceda-4bab-b635-e356926f6cc7" width="450px" />
 </div>
