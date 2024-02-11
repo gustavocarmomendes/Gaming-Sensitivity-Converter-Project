@@ -1,4 +1,4 @@
-## Gaming Sensitivity Converter Project
+## Gaming Sensitivity Converter Project / Version 1.0
  
 Projeto desenvolvido dia 10/02, esse sistema converte sua sensibilidade de um jogo para outro, assim facilitando jogadores que querem migrar para outro jogo sem precisar procurar uma sensibilidade nova.
 
